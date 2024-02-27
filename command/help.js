@@ -23,8 +23,8 @@ ${mundur}
  • Downloads : ${download}
 
 *BOT INFO*
- • Creator : ${ownerName}
- • Bot Name : ${botName}
+ • Creator : ${GARA}
+ • Bot Name : ${HARUKA-BETA}
  • Time : ${jam}
  • Date : ${tanggal(new Date())}
  • Runtime : ${runtime(process.uptime())}
@@ -538,7 +538,7 @@ ${mundur}
 
 exports.donate = (pushname, ownerNumber) => {
     return`Contact  Owner:
-wa.me/${ownerNumber} (Owner)`
+wa.me/${6285360397134} (itu owner aku kak><)`
 }
 
 exports.sewanya = `Untuk List Sewa ubah sendiri di folder command, file help.js 👌 baris ke 521`
